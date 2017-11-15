@@ -36,6 +36,15 @@ footer {
     float: left;
 }
 
+.box-image {
+    width: 200px;
+    height: 150px;
+    padding: 25px;
+    margin: 15px;
+
+
+}
+
 .name {
     background-color: #4aaaa5;
     color: white;
@@ -135,7 +144,7 @@ input[type=text], select, textarea {
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical
+    resize: vertical;
 }
 
 input[type=submit] {
@@ -155,4 +164,5 @@ input[type=submit]:hover {
 .container-input {
     border-radius: 5px;
     padding: 20px;
+
 }
